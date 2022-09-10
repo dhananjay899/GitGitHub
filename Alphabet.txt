@@ -1,4 +1,4 @@
-QWERTYUIOP
+.QWERTYUIOP
 
 asdfghjkl
 
